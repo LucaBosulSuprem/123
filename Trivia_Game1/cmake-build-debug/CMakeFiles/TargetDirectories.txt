@@ -1,0 +1,4 @@
+C:/Users/user/CLionProjects/Trivia_Game1/cmake-build-debug/CMakeFiles/game_engine.dir
+C:/Users/user/CLionProjects/Trivia_Game1/cmake-build-debug/CMakeFiles/game_ui.dir
+C:/Users/user/CLionProjects/Trivia_Game1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/user/CLionProjects/Trivia_Game1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
